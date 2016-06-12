@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/view/jsp/default/ui/casAccountDisabledView.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/jsp/default/ui/casAccountLockedView.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/jsp/default/ui/casBadHoursView.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/jsp/default/ui/casBadWorkstationView.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/jsp/default/ui/casConfirmView.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/jsp/default/ui/casExpiredPassView.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/jsp/default/ui/casGenericSuccess.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/jsp/default/ui/casLoginMessageView.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/jsp/default/ui/casLoginView.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/jsp/default/ui/casLogoutView.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/jsp/default/ui/casMustChangePassView.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/jsp/default/ui/includes/bottom.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/jsp/default/ui/serviceErrorSsoView.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/jsp/default/ui/serviceErrorView.jsp=UTF-8
